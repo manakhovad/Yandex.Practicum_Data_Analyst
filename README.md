@@ -7,10 +7,10 @@ Projects for the course in Yandex School of Data Analysis
 
 
 ## Программа:
-![Аналитик данных — программа](/program.png)
+![Аналитик данных — программа](/programm.png)
 
 ## Сертификат ([PDF-версия](certificate/daria_manakhova_20212da00908.pdf)):
-![Аналитик данных — сертификат](/certificate/certificate-1.png)
+![Аналитик данных — сертификат](/certificate/certificate-11.png)
 
 ## Описание проектов:
 | № | Название проекта и ссылка | Описание проекта                                                     |
