@@ -1,15 +1,13 @@
-# Яндекс.Практикум: Аналитик данных
+# Yandex.Practicum: Data Analyst
 Projects for the course in Yandex School of Data Analysis
 
-[![Аналитик данных — Яндекс.Практикум](/logo.png)](https://praktikum.yandex.ru/data-analyst/)
-
-Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
+Course Link: https://praktikum.yandex.ru/data-analyst/
 
 
-## Программа:
-![Аналитик данных — программа](/programm.png)
+## Course Programm:
+![Аналитик данных — программа](certificate/programm.png)
 
-## Сертификат ([PDF-версия](certificate/daria_manakhova_20212da00908.pdf)):
+## Certificate ([PDF-file](certificate/daria_manakhova_20212da00908.pdf)):
 ![Аналитик данных — сертификат](/certificate/certificate-11.png)
 
 ## Описание проектов:
