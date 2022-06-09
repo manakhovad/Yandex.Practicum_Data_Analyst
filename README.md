@@ -1,7 +1,7 @@
-# Yandex.Practikum: Data Analyst
+# Yandex.Practicum: Data Analyst
 Projects for the course in Yandex School of Data Analysis
 
-Course Link: https://praktikum.yandex.ru/data-analyst/
+Course Link: https://prakticum.yandex.ru/data-analyst/
 
 
 ## Course Programm:
